@@ -1,6 +1,6 @@
-# Welcome to CHOP CGT DataOps
+# Welcome to CHOP CGT Informatics
 
-The Cell & Gene Therapy Data Operations team is an embedded team at the Children's Hospital of Philadelphia.
+The Cell & Gene Therapy Informatics team is an embedded team at the Children's Hospital of Philadelphia.
 
 ## Mission
 
